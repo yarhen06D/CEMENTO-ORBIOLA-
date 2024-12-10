@@ -1,0 +1,14 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #2b6e2f;
+    color: white;
+    text-align: center;
+    padding: 50px 20
