@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Orbiola es un cemento ecológico que reduce las emisiones de CO2 y mejora la eficiencia energética. Ideal para proyectos sostenibles.">
+    <title>Orbiola - Cemento Ecológico</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Orbiola</h1>
+        <p>Cemento Ecológico para la Construcción Sostenible</p>
+    </header>
+
+    <section class="about">
+        <h2>¿Qué es Orbiola?</h2>
+        <p>Orbiola es un cemento ecológico fabricado con materiales reciclados, diseñado para reducir las emisiones de CO2 y mejorar la eficiencia energética en proyectos de construcción.</p>
+    </section>
+
+    <section class="benefits">
+        <h2>Beneficios Clave</h2>
+        <ul>
+            <li>Reducción de la huella de carbono.</li>
+            <li>Mayor resistencia y durabilidad.</li>
+            <li>Mejor aislamiento térmico y eficiencia energética.</li>
+            <li>Fabricado con materiales reciclados.</li>
+        </ul>
+    </section>
+
+    <section class="applications">
+        <h2>Aplicaciones</h2>
+        <p>Orbiola es ideal para la construcción de viviendas ecológicas, infraestructuras públicas, comerciales e industriales. Contribuye a la sostenibilidad y al cuidado del medio ambiente.</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Orbiola - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
